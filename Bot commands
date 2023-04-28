@@ -10,3 +10,4 @@
 .note (text) - Create a note that will be sent to private messages
 .botinfo - Bot state
 .version - Bot version
+.math (mathematical expression) -  Solve Math Expression
