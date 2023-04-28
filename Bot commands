@@ -1,0 +1,12 @@
+.commands - Commands navigation
+.poll (header, Possible answer1, Possible answer2, Possible answer3...) - Create a poll
+.me - Personal information
+.warn (member) - Give a warning for menber
+.ban (member) - Ban menber
+.kick (member) - Kick Member
+.bc (text) - Announcement
+.math (mathematical expression) - solve math expression (example - .math 10 * 15)
+.createrole (role name) - create a new role
+.note (text) - Create a note that will be sent to private messages
+.botinfo - Bot state
+.version - Bot version
